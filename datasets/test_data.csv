@@ -1,0 +1,8 @@
+PM2.5,PM10,NO2,CO,SO2,O3,Location,Date
+30,50,20,0.5,10,30,Residential Area,2024-01-01
+80,120,50,1.0,20,50,Commercial Area,2024-01-02
+150,250,80,1.5,30,70,Industrial Area,2024-01-03
+250,400,120,2.0,40,90,High Traffic Area,2024-01-04
+400,600,150,3.0,50,110,Highly Polluted Area,2024-01-05
+45,70,25,0.6,12,35,Park Area,2024-01-06
+95,140,55,1.1,22,55,Suburban Area,2024-01-07
