@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+.venv/
+venv/
+.env
+.DS_Store
+dataset/station_hour.csv
